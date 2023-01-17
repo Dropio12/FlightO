@@ -1,0 +1,73 @@
+Nombre de lignes = 165
+Nombre de stations initiales = 4465
+Nombre de services = 1
+Chargement des données effectué en 17.5195 secondes
+Nombre de stations ayant au moins 1 arrêt = 4346
+Nombre de transferts = 871
+Nombres de voyages = 3616
+Nombre d'arrêts = 169264
+Le nombre d'arcs (sans le point origine et destination) est = 658927
+Graphe (sans le point origine et destination) a été produit en 3.21826 secondes
+
+=============================================
+                  premier cas                
+=============================================
+
+Coordonnées GPS du point d'origine: (lat:46.7962, long:-71.3139)
+Coordonnées GPS du point de destination: (lat:46.8599, long:-71.3984)
+Nombre d'arcs ajoutés du point origine vers une station = 166
+Nombre d'arcs ajoutés d'une station vers le point destination = 2062
+Cet ajout au graphe a nécessité un temps d'exécution de 0.007958 secondes
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-4410 - Parc-Techn./4410 (lat:46.7962, long:-71.3142)
+De cette station, prenez l'autobus numéro 22 à l'heure 07:33:00 Vers Terminus Les Saules (Nord)
+et arrêtez-vous à la station 1-5720 - T. Les Saules (lat:46.8126, long:-71.3245) à l'heure 07:46:00
+De cette station, rendez-vous à pieds à la station 1-5727 - T. Les Saules (lat:46.8127, long:-71.3239)
+De cette station, prenez l'autobus numéro 804 à l'heure 07:52:00 Vers Loretteville (Nord)
+et arrêtez-vous à la station 1-4148 - Racine/4148 (lat:46.8503, long:-71.3606) à l'heure 08:05:00
+De cette station, rendez-vous à pieds à la station 1-4187 - W.-Caron/4187 (lat:46.8508, long:-71.3608)
+De cette station, prenez l'autobus numéro 84 à l'heure 08:12:00 Vers Val-Bélair (Nord)
+et arrêtez-vous à la station 1-2591 - de Jouvence (lat:46.8599, long:-71.3983) à l'heure 08:27:54
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:27:56
+Durée du trajet: 0 heures, 57 minutes, 56 secondes
+
+Temps d'exécution de l'algorithme de plus court chemin: 10801 microsecondes
+
+=============================================
+                  deuxième cas               
+=============================================
+
+Suppression du graphe connecté aux points source et destination
+Cette suppression a nécessité un temps d'exécution de 9e-05 secondes
+Coordonnées GPS du point d'origine: (lat:46.8599, long:-71.3984)
+Coordonnées GPS du point de destination: (lat:46.7962, long:-71.3139)
+Nombre d'arcs ajoutés du point origine vers une station = 169
+Nombre d'arcs ajoutés d'une station vers le point destination = 2150
+Cet ajout au graphe a nécessité un temps d'exécution de 0.001787 secondes
+
+=====================
+     ITINÉRAIRE      
+=====================
+
+Heure de départ du point d'origine: 07:30:00
+Rendez vous à la station 1-2587 - du Javelot (lat:46.8607, long:-71.3935)
+De cette station, prenez l'autobus numéro 584 à l'heure 07:35:25 Vers Sainte-Foy Centre (Sud)
+et arrêtez-vous à la station 1-4187 - W.-Caron/4187 (lat:46.8508, long:-71.3608) à l'heure 07:50:00
+De cette station, rendez-vous à pieds à la station 1-4093 - W.-Caron/4093 (lat:46.851, long:-71.3607)
+De cette station, prenez l'autobus numéro 70 à l'heure 07:53:00 Vers Val-Bélair (Nord)
+et arrêtez-vous à la station 1-5306 - l'Ormière/5306 (lat:46.8449, long:-71.3674) à l'heure 07:54:46
+De cette station, prenez l'autobus numéro 804 à l'heure 08:01:27 Vers Sainte-Foy Centre (Sud)
+et arrêtez-vous à la station 1-4433 - P.-Lelièvre/4433 (lat:46.811, long:-71.3209) à l'heure 08:12:41
+De cette station, prenez l'autobus numéro 22 à l'heure 08:22:22 Vers Sainte-Foy Centre (Sud)
+et arrêtez-vous à la station 1-4945 - Einstein/4945 (lat:46.7962, long:-71.3146) à l'heure 08:27:13
+Déplacez-vous à pieds de cette station au point destination
+Heure d'arrivée à la destination: 08:27:52
+Durée du trajet: 0 heures, 57 minutes, 52 secondes
+
+Temps d'exécution de l'algorithme de plus court chemin: 3273 microsecondes
