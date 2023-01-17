@@ -1,0 +1,166 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1-1,RTC,1,,Station Belvédère - Gare fluviale / Cap-Blanc,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=1, 013888, FFFFFF
+1-107,RTC,107,,Gare du Palais - Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=107, 013888, FFFFFF
+1-11,RTC,11,,Gare fluviale - Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=11, 013888, FFFFFF
+1-11G,RTC,11G,,- C.-Laforte / McCartney,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=11g, 013888, FFFFFF
+1-13,RTC,13,,Saint-Louis/Sainte-Foy Centre/du Versant-Nord - Du Versant-Nord/Sainte-Foy Centre/Saint-Louis,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=13, 013888, FFFFFF
+1-133,RTC,133,,Vieux-Québec - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=133, 013888, FFFFFF
+1-136,RTC,136,,Colline Parlementaire - Montagne-des-Roches,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=136, 013888, FFFFFF
+1-13A,RTC,13A,,École secondaire De Rochebelle - De Terrebonne / de La Suète,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=13a, 013888, FFFFFF
+1-13B,RTC,13B,,École secondaire De Rochebelle - Des Sapins / du Versant-Nord,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=13b, 013888, FFFFFF
+1-14,RTC,14,,Pointe-de-Sainte-Foy - Cap-Rouge,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=14, 013888, FFFFFF
+1-14A,RTC,14A,,Collège des Compagnons - De la Rivière / du Domaine,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=14a, 013888, FFFFFF
+1-14G,RTC,14G,,Collège Jésus-Marie de Sillery - Des Carougeois / J.-C.-Cantin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=14g, 013888, FFFFFF
+1-15,RTC,15,,Pointe-de-Sainte-Foy - Cap-Rouge,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=15, 013888, FFFFFF
+1-15A,RTC,15A,,Collège des Compagnons - de la Prom.-des-Soeurs / J.-C.-Cantin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=15a, 013888, FFFFFF
+1-15B,RTC,15B,,Collège des Compagnons - E.-Blondin / de la Prom-des-Soeurs,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=15b, 013888, FFFFFF
+1-16,RTC,16,,Sillery / U. Laval / Sainte-Foy Centre - U. Laval / Sillery / Sainte-Foy Centre,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=16, 013888, FFFFFF
+1-18,RTC,18,,Gare du Palais - Université Laval,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=18, 013888, FFFFFF
+1-185,RTC,185,,Station Belvédère / Sainte-Foy Centre - Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=185, 013888, FFFFFF
+1-19,RTC,19,,Grand Théâtre - Limoilou,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=19, 013888, FFFFFF
+1-214,RTC,214,,Gare du Palais - Cap-Rouge,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=214, E04503, 000000
+1-215,RTC,215,,Gare du Palais - Cap-Rouge,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=215, E04503, 000000
+1-22,RTC,22,,Sainte-Foy Centre - Terminus Les Saules,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=22, 013888, FFFFFF
+1-230,RTC,230,,Colline Parlementaire - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=230, E04503, 000000
+1-236,RTC,236,,Colline Parlementaire - Station des Roses,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=236, E04503, 000000
+1-238,RTC,238,,Colline Parlementaire - Guillaume-Mathieu,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=238, E04503, 000000
+1-239,RTC,239,,Colline Parlementaire - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=239, E04503, 000000
+1-25,RTC,25,,Place D'Youville / Gare du Palais - Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=25, 013888, FFFFFF
+1-250,RTC,250,,Colline Parlementaire - Terminus Chute-Montmorency,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=250, E04503, 000000
+1-251,RTC,251,,Colline Parlementaire - Parc-O-Bus Sainte-Anne,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=251, E04503, 000000
+1-253,RTC,253,,Colline Parlementaire - Courville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=253, E04503, 000000
+1-254,RTC,254,,Colline Parlementaire - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=254, E04503, 000000
+1-255,RTC,255,,Colline Parlementaire - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=255, E04503, 000000
+1-257,RTC,257,,Colline Parlementaire - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=257, E04503, 000000
+1-258,RTC,258,,Colline Parlementaire - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=258, E04503, 000000
+1-25G,RTC,25G,,- Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=25g, 013888, FFFFFF
+1-272,RTC,272,,Colline Parlementaire - Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=272, E04503, 000000
+1-273,RTC,273,,Colline Parlementaire - Loretteville Sud,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=273, E04503, 000000
+1-274,RTC,274,,Colline Parlementaire - Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=274, E04503, 000000
+1-277,RTC,277,,Colline Parlementaire - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=277, E04503, 000000
+1-279,RTC,279,,Colline Parlementaire - L'Ancienne-Lorette,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=279, E04503, 000000
+1-28,RTC,28,,Colline Parlementaire - 51e Rue Est,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=28, 013888, FFFFFF
+1-280,RTC,280,,Place Jacques-Cartier / colline Parlementaire - L'Ancienne-Lorette,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=280, E04503, 000000
+1-281,RTC,281,,Colline Parlementaire - Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=281, E04503, 000000
+1-282,RTC,282,,Colline Parlementaire - Lac-Saint-Charles,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=282, E04503, 000000
+1-283,RTC,283,,Gare du Palais - Champigny,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=283, E04503, 000000
+1-284,RTC,284,,Colline Parlementaire - Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=284, E04503, 000000
+1-289,RTC,289,,Colline Parlementaire - Saint-Émile,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=289, E04503, 000000
+1-29,RTC,29,,Parc Colbert Ouest - Place Jacques-Cartier,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=29, 013888, FFFFFF
+1-290,RTC,290,,Vieux-Québec - Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=290, E04503, 000000
+1-292,RTC,292,,Place Jacques-Cartier - Saint-Augustin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=292, E04503, 000000
+1-294,RTC,294,,Place Jacques-Cartier - Saint-Augustin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=294, E04503, 000000
+1-3,RTC,3,,Grand Théâtre - 41e Rue Est / Jean-Talon Ouest,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=3, 013888, FFFFFF
+1-31,RTC,31,,Terminus de la Faune - Lac-Saint-Charles,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=31, 013888, FFFFFF
+1-315,RTC,315,,Univ.Laval/Cégep Garneau - Cap-Rouge,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=315, E04503, 000000
+1-32,RTC,32,,Terminus de la Faune - Lac Clément,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=32, 013888, FFFFFF
+1-33,RTC,33,,Parc industriel Charlesbourg - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=33, 013888, FFFFFF
+1-330,RTC,330,,Univ.Laval/Cégep Garneau - Terminus Charlesbourg,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=330, E04503, 000000
+1-331,RTC,331,,Pointe-de-Sainte-Foy - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=331, E04503, 000000
+1-332,RTC,332,,Saint-Rodrigue - Sainte-Foy Centre,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=332, E04503, 000000
+1-336,RTC,336,,Univ.Laval/Cégep Garneau - Station des Roses,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=336, E04503, 000000
+1-337,RTC,337,,Univ.Laval/Cégep Garneau - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=337, E04503, 000000
+1-338,RTC,338,,Univ.Laval/Cégep Garneau - Montagne-des-Roches,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=338, E04503, 000000
+1-34,RTC,34,,Terminus de la Faune - Des Laurentides,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=34, 013888, FFFFFF
+1-344,RTC,344,,Univ.Laval/Cégep Garneau - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=344, E04503, 000000
+1-350,RTC,350,,Univ.Laval/Cégep Garneau - Terminus Chute-Montmorency,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=350, E04503, 000000
+1-354,RTC,354,,Pointe-de-Sainte-Foy - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=354, E04503, 000000
+1-355,RTC,355,,Univ.Laval/Cégep Garneau - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=355, E04503, 000000
+1-358,RTC,358,,Univ.Laval/Cégep Garneau - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=358, E04503, 000000
+1-36,RTC,36,,Place Jacques-Cartier - Station des Roses,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=36, 013888, FFFFFF
+1-372,RTC,372,,Univ.Laval/Cégep Garneau - Lac-Saint-Charles,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=372, E04503, 000000
+1-374,RTC,374,,Univ.Laval/Cégep Garneau - Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=374, E04503, 000000
+1-377,RTC,377,,Univ.Laval/Cégep Garneau - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=377, E04503, 000000
+1-380,RTC,380,,Univ.Laval/Cégep Garneau - L'Ancienne-Lorette,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=380, E04503, 000000
+1-381,RTC,381,,Univ.Laval/Cégep Garneau - Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=381, E04503, 000000
+1-382,RTC,382,,Univ.Laval/Cégep Garneau - Saint-Émile,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=382, E04503, 000000
+1-384,RTC,384,,Univ.Laval/Cégep Garneau - Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=384, E04503, 000000
+1-39,RTC,39,,41e Rue Est - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=39, 013888, FFFFFF
+1-391,RTC,391,,Pointe-de-Sainte-Foy - Terminus Les Saules,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=391, E04503, 000000
+1-3A,RTC,3A,,Saint-Jean-Eudes - Des Lilas Ouest / du Colisée,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=3a, 013888, FFFFFF
+1-4,RTC,4,,Place Jacques-Cartier - Maizerets,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=4, 013888, FFFFFF
+1-405,RTC,405,,Centre Vidéotron - Hôtels centre-ville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=405, 013888, FFFFFF
+1-410,RTC,410,,Festival d'été - Hydro-Québec,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=410, 013888, FFFFFF
+1-420,RTC,420,,Festival d'été - Aquarium du Québec / Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=420, 013888, FFFFFF
+1-430,RTC,430,,Festival d'été - Atrium,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=430, 013888, FFFFFF
+1-450,RTC,450,,Festival d'été - Les Promenades Beauport,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=450, 013888, FFFFFF
+1-460,RTC,460,,,3,,FFFFFF,000000
+1-51,RTC,51,,Parc-O-Bus Sainte-Anne - Terminus Beauport,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=51, 013888, FFFFFF
+1-52,RTC,52,,Maizerets - Terminus Charlesbourg,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=52, 013888, FFFFFF
+1-53,RTC,53,,Courville - Terminus Beauport,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=53, 013888, FFFFFF
+1-530,RTC,530,,Sainte-Foy Centre - Station des Roses,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=530, E04503, 000000
+1-536,RTC,536,,Sainte-Foy Centre - du Bourg-Royal,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=536, E04503, 000000
+1-537,RTC,537,,Sainte-Foy Centre - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=537, E04503, 000000
+1-538,RTC,538,,Sainte-Foy Centre - du Bourg-Royal,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=538, E04503, 000000
+1-54,RTC,54,,Cégep Limoilou / Vieux-Québec - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=54, 013888, FFFFFF
+1-54A,RTC,54A,,Académie Sainte-Marie - Rang-Saint-Ignace / Forain,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=54a, 013888, FFFFFF
+1-54G,RTC,54G,,École secondaire de la Seigneurie - Saint-Honoré / Sainte-Thérèse,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=54g, 013888, FFFFFF
+1-55,RTC,55,,Terminus Beauport - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=55, 013888, FFFFFF
+1-550,RTC,550,,Sainte-Foy Centre - Terminus Chute-Montmorency,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=550, E04503, 000000
+1-554,RTC,554,,Sainte-Foy Centre - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=554, E04503, 000000
+1-555,RTC,555,,Sainte-Foy Centre - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=555, E04503, 000000
+1-558,RTC,558,,Sainte-Foy Centre - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=558, E04503, 000000
+1-55A,RTC,55A,,Académie Sainte-Marie - Raymond / L.-Chardon,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=55a, 013888, FFFFFF
+1-55G,RTC,55G,,École secondaire de la Seigneurie - Rang-Saint-Ignace / Forain,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=55g, 013888, FFFFFF
+1-56,RTC,56,,Parc industriel de Beauport - Terminus Beauport,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=56, 013888, FFFFFF
+1-57,RTC,57,,Sainte-Thérèse-de-Lisieux - Terminus Beauport,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=57, 013888, FFFFFF
+1-572,RTC,572,,Sainte-Foy Centre - Lac-Saint-Charles,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=572, E04503, 000000
+1-574,RTC,574,,Sainte-Foy Centre - Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=574, E04503, 000000
+1-577,RTC,577,,Sainte-Foy Centre - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=577, E04503, 000000
+1-58,RTC,58,,Terminus Beauport - Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=58, 013888, FFFFFF
+1-580,RTC,580,,Sainte-Foy Centre - L'Ancienne-Lorette,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=580, E04503, 000000
+1-581,RTC,581,,Lebourgneuf / Sainte-Foy Centre - Lebourgneuf / Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=581, E04503, 000000
+1-582,RTC,582,,Lebourgneuf / Sainte-Foy Centre - Lebourgneuf / Saint-Émile,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=582, E04503, 000000
+1-584,RTC,584,,Sainte-Foy Centre - Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=584, E04503, 000000
+1-59,RTC,59,,Terminus Charlesbourg - Terminus Chute-Montmorency,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=59, 013888, FFFFFF
+1-61,RTC,61,,Maizerets - Lebourgneuf,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=61, 013888, FFFFFF
+1-64,RTC,64,,Place Jacques-Cartier - Lebourgneuf,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=64, 013888, FFFFFF
+1-65,RTC,65,,Place  J.-Cartier / colline Parlementaire - Lebourgneuf,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=65, 013888, FFFFFF
+1-70,RTC,70,,Sainte-Foy Centre - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=70, 013888, FFFFFF
+1-72,RTC,72,,Terminus Charlesbourg - Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=72, 013888, FFFFFF
+1-74,RTC,74,,Place Jacques-Cartier - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=74, 013888, FFFFFF
+1-75,RTC,75,,Sainte-Foy Centre - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=75, 013888, FFFFFF
+1-76,RTC,76,,Gare de train de Sainte-Foy - Aéroport international Jean-Lesage,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=76, 013888, FFFFFF
+1-77,RTC,77,,Terminus Les Saules - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=77, 013888, FFFFFF
+1-79,RTC,79,,Terminus Les Saules / Belvédère - Chauveau,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=79, 013888, FFFFFF
+1-79A,RTC,79A,,,3,,FFFFFF,000000
+1-79B,RTC,79B,,École sec. Polyvalente de L'Ancienne-Lorette - Terminus Les Saules,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=79b, 013888, FFFFFF
+1-79G,RTC,79G,,École secondaire La Camaradière - Saint-Paul / Saint-Olivier,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=79g, 013888, FFFFFF
+1-80,RTC,80,,Place Jacques-Cartier - Aéroport international Jean-Lesage,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=80, 013888, FFFFFF
+1-800,RTC,800,,Terminus Chute-Montmorency - Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=800, 97BF0D, 000000
+1-801,RTC,801,,Terminus de la Faune - Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=801, 97BF0D, 000000
+1-802,RTC,802,,Terminus Beauport - Station Belvédère,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=802, 97BF0D, 000000
+1-803,RTC,803,,Terminus Beauport - Terminus Les Saules,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=803, 97BF0D, 000000
+1-804,RTC,804,,Sainte-Foy Centre - Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=804, 97BF0D, 000000
+1-807,RTC,807,,Place D'Youville - Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=807, 97BF0D, 000000
+1-80A,RTC,80A,,École sec. Polyvalente de L'Ancienne-Lorette - Terminus Les Saules,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=80a, 013888, FFFFFF
+1-80G,RTC,80G,,École secondaire La Camaradière - O'Neil / W.-Hamel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=80g, 013888, FFFFFF
+1-81,RTC,81,,Terminus Les Saules - Terminus de la Faune,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=81, 013888, FFFFFF
+1-82,RTC,82,,Place Jacques-Cartier - Lac-Saint-Charles,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=82, 013888, FFFFFF
+1-82A,RTC,82A,,Saint-Jean-Eudes - Samson / Baker,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=82a, 013888, FFFFFF
+1-84,RTC,84,,Place Jacques-Cartier - Val-Bélair,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=84, 013888, FFFFFF
+1-84G,RTC,84G,,École secondaire La Camaradière - Du Costebelle / de Pertuis,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=84g, 013888, FFFFFF
+1-85,RTC,85,,Place Jacques-Cartier - Lebourgneuf,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=85, 013888, FFFFFF
+1-86,RTC,86,,Place J.-Cartier / colline Parlementaire - Terminus Les Saules,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=86, 013888, FFFFFF
+1-86G,RTC,86G,,École secondaire La Camaradière - Père-Lelièvre / Godin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=86g, 013888, FFFFFF
+1-88,RTC,88,,Sainte-Foy Centre - Terminus Les Saules,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=88, 013888, FFFFFF
+1-9,RTC,9,,Parc Colbert Est - Place Jacques-Cartier,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=9, 013888, FFFFFF
+1-904,RTC,904,,- Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=904, 1A171B, FFFFFF
+1-907,RTC,907,,Place D'Youville - Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=907, 1A171B, FFFFFF
+1-915,RTC,915,,- Cap-Rouge,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=915, 1A171B, FFFFFF
+1-92,RTC,92,,Cégep Garneau - Saint-Augustin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=92, 013888, FFFFFF
+1-925,RTC,925,,- Pointe-de-Sainte-Foy,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=925, 1A171B, FFFFFF
+1-92A,RTC,92A,,Campus Notre-Dame-de-Foy - Terminus Charlesbourg,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=92a, 013888, FFFFFF
+1-93,RTC,93,,Sainte-Foy Centre/Univ.Laval/Cégep Garneau - Champigny,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=93, 013888, FFFFFF
+1-931,RTC,931,,Place D'Youville - Lac-Saint-Charles,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=931, 1A171B, FFFFFF
+1-936,RTC,936,,- Station des Roses,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=936, 1A171B, FFFFFF
+1-94,RTC,94,,Cégep Garneau - Saint-Augustin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=94, 013888, FFFFFF
+1-950,RTC,950,,Terminus Chute-Montmorency -,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=950, 1A171B, FFFFFF
+1-954,RTC,954,,- Sainte-Thérèse-de-Lisieux,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=954, 1A171B, FFFFFF
+1-97,RTC,97,,Navette chauffeur -,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=97, 013888, FFFFFF
+1-972,RTC,972,,- Loretteville,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=972, 1A171B, FFFFFF
+1-980,RTC,980,,- L'Ancienne-Lorette,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=980, 1A171B, FFFFFF
+1-982,RTC,982,,- Lac-Saint-Charles,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=982, 1A171B, FFFFFF
+1-984,RTC,984,,- Neufchâtel,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=984, 1A171B, FFFFFF
+1-992,RTC,992,,- Saint-Augustin,3,https://www.rtcquebec.ca/Default.aspx?tabid=95&noParcours=992, 1A171B, FFFFFF
+1-999,RTC,999,,,3,,FFFFFF,000000
