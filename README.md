@@ -1,7 +1,16 @@
-FlightO
+# FlightO
 
--This algorithm is working well and we already upgraded it by adding multiple algorithms to upgrade it for our app. We are now trying to get fundraising with investor to make it big. I, also, plan on posting the API on FastApi for free for future prospect that will need it for projects. Since then, if you have questions, feel free to ask them to me here.
+FlightO is an advanced algorithm designed to find the cheapest options for planning flight itineraries for your next vacation. We have continuously upgraded the algorithm, incorporating multiple enhancements to improve its efficiency and accuracy. Currently, we are seeking fundraising from investors to expand and scale the application further.
 
+## Current Progress
 
-**OOOOLD**
-It is basically the upgrade from my previous attempt at creating a model that will give you the cheapest option to plan the flight itinerary of your next vacation. I still didn't find any free API that could get me the flights and price of them, so with a teacher at my university, we decided to create a bus itinerary app due to the fact that their API is free. This way we can simulate my code with a real database to see if it works. Thats what I did during this winter.
+- **Algorithm Enhancements**: The algorithm has been significantly improved by integrating multiple new algorithms.
+- **Future API Release**: We plan to make the API available for free on FastAPI, allowing future developers and projects to benefit from it.
+
+If you have any questions, feel free to reach out to me here.
+
+## Background
+
+### Previous Iteration: OOOOLD
+
+The initial version of this project aimed to create a model to provide the cheapest flight itineraries. However, due to the lack of free APIs for flight data, we pivoted to creating a bus itinerary app using a free API with the help of a university professor. This allowed us to test and simulate our code with a real database, ensuring its functionality. The initial work was conducted during the winter season.
