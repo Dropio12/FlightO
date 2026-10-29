@@ -1,2 +1,0 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
-Réseau de transport de la capitale (RTC),https://www.rtcquebec.ca,fr,20220801,20221125

@@ -1,0 +1,19 @@
+# Tiny hand-checked case for the optimizer tests (made-up prices).
+# Home HOM, cities AAA (1-2 nights) and BBB (1 night).
+# Window 2027-01-01 (day 0) to 2027-01-05 (day 4).
+# The full enumeration of every trip is written out in tests/test_main.cpp.
+from,to,date,price
+HOM,AAA,2027-01-01,100
+HOM,AAA,2027-01-02,80
+HOM,AAA,2027-01-03,60
+HOM,BBB,2027-01-01,90
+HOM,BBB,2027-01-02,50
+AAA,BBB,2027-01-02,40
+AAA,BBB,2027-01-03,30
+AAA,BBB,2027-01-04,20
+BBB,AAA,2027-01-02,25
+BBB,AAA,2027-01-03,35
+AAA,HOM,2027-01-04,70
+AAA,HOM,2027-01-05,120
+BBB,HOM,2027-01-04,60
+BBB,HOM,2027-01-05,40

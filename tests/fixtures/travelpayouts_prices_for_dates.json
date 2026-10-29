@@ -1,0 +1,25 @@
+{
+  "_comment": "SAMPLE response, not a real API answer. Shaped like the prices_for_dates response example in the Travelpayouts Aviasales Data API docs (https://support.travelpayouts.com/hc/en-us/articles/203956163-Aviasales-Data-API). The docs example has curly quotes and no outer braces; those are fixed here, and the documented currency and error fields are filled in.",
+  "success": true,
+  "data": [
+    {
+      "origin": "MAD",
+      "destination": "BCN",
+      "origin_airport": "MAD",
+      "destination_airport": "BCN",
+      "price": 5929,
+      "airline": "IB",
+      "flight_number": "3002",
+      "departure_at": "2023-07-28T07:00:00+02:00",
+      "return_at": "2023-08-26T14:30:00+02:00",
+      "transfers": 0,
+      "return_transfers": 0,
+      "duration": 165,
+      "duration_to": 80,
+      "duration_back": 85,
+      "link": "/search/MAD2807BCN26081?t=IB16905204001690525200000080MADBCN16930530001693058100000085BCNMAD_29ee244e5b536fb9099d8ec2ca842b19_78&search_date=11052023&expected_price_uuid=7531ddb1-26b4-4df9-891e-81dc54d48b2a&expected_price_currency=usd"
+    }
+  ],
+  "currency": "usd",
+  "error": null
+}
